@@ -2,7 +2,7 @@ script: "make longbuild"
 notifications:
   webhooks:
     urls:
-      - https://fzgaemohhe.localtunnel.me/travis/hook
+      - https://qlelfxrqya.localtunnel.me/travis/hook
     on_success: always
     on_failure: always
     on_start: always
