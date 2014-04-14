@@ -1,0 +1,2 @@
+longbuild:
+	sleep 10
