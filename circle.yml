@@ -1,0 +1,5 @@
+notify:
+  webhooks:
+      # A list of hook hashes, containing the url field
+      # gitter hook
+      - url: https://vqmxjculvy.localtunnel.me/circleci/hook
