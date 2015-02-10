@@ -1,6 +1,6 @@
 notify:
   webhook:
     urls:
-      - "https://whpeawbzae.localtunnel.me/drone/hook"
+      - "https://ohlghkgufx.localtunnel.me/drone/hook"
     on_success: true
     on_failure: true
