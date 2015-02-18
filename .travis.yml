@@ -2,7 +2,7 @@ script: "make longbuild"
 notifications:
   webhooks:
     urls:
-      - https://webhooks.gitter.im/e/13a77421b86d171ee82b
+      - https://webhooks.gitter.im/e/b2d87c5c9e60d3d5e007
     on_success: always
     on_failure: always
     on_start: always
