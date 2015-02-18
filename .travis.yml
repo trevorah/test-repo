@@ -2,7 +2,7 @@ script: "make longbuild"
 notifications:
   webhooks:
     urls:
-      - https://rmsmtgbqci.localtunnel.me/travis/hook
+      - https://webhooks.gitter.im/e/13a77421b86d171ee82b
     on_success: always
     on_failure: always
     on_start: always
