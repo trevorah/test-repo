@@ -1,3 +1,5 @@
 h1. Test Repo
 
-This is a neat thing.
+!https://badges.gitter.im/Join%20Chat.svg(Join the chat at https://gitter.im/trevorah/test-repo)!:https://gitter.im/trevorah/test-repo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+
+This is a neat thing!
